@@ -6,3 +6,4 @@ Java Stdin and Stdout II: https://www.hackerrank.com/challenges/java-stdin-stdou
 Java Output Formatting: https://www.hackerrank.com/challenges/java-output-formatting/problem
 Java Loops I: https://www.hackerrank.com/challenges/java-loops-i/problem
 Java Loops II: https://www.hackerrank.com/challenges/java-loops/problem
+Java Datatypes: https://www.hackerrank.com/challenges/java-datatypes/problem
