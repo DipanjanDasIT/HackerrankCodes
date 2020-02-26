@@ -4,3 +4,4 @@ Java Stdin and Stdout I: https://www.hackerrank.com/challenges/java-stdin-and-st
 Java If-Else: https://www.hackerrank.com/challenges/java-if-else/problem
 Java Stdin and Stdout II: https://www.hackerrank.com/challenges/java-stdin-stdout/problem
 Java Output Formatting: https://www.hackerrank.com/challenges/java-output-formatting/problem
+Java Loops I: https://www.hackerrank.com/challenges/java-loops-i/problem
